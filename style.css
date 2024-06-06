@@ -1,0 +1,44 @@
+
+#principal{
+    background-color: palevioletred;
+    text-align: center;
+    width: 90%;
+    padding: 30px;
+    margin: auto;
+    box-shadow: 5px 5px 15px hsla(0, 0%, 100%, 0.185);
+    border-radius: 5px;
+    color: white;
+}
+
+h1{
+    font-size: 3em;
+    font-family: "Delius Unicase";
+    font-weight: 700;
+    text-align: center;
+}
+h2{
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+button{
+    align-items: center;
+    font-size: 1.5em;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover{
+    background-color: blue;
+}
+
+#saidaRelatorio{
+    background-color: white;
+    color: palevioletred;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 100px;
+}
